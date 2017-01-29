@@ -33,7 +33,7 @@ class Job {
         System.out.println("-|-|-");
         System.out.println("-|-|-");
         System.out.println("-|-|-");
-        while (true) {
+        while (true) { // Бесконечный цикл! (надо поправить)
             BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
             System.out.println("Введите 'X' или 'O'.");
             String number = reader.readLine();

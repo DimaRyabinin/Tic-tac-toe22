@@ -37,60 +37,77 @@ class Job {
                   System.out.println(numbers1[0] + "|" + numbers1[1] + "|" + numbers1[2]);
                   System.out.println(numbers1[3] + "|" + numbers1[4] + "|" + numbers1[5]);
                   System.out.println(numbers1[6] + "|" + numbers1[7] + "|" + numbers1[8]);
-                 }
+              }
               if (x == 1 & y == 1) {
-                numbers1[6] = number;
-                System.out.println(numbers1[0] + "|" + numbers1[1] + "|" + numbers1[2]);
-                System.out.println(numbers1[3] + "|" + numbers1[4] + "|" + numbers1[5]);
-                System.out.println(numbers1[6] + "|" + numbers1[7] + "|" + numbers1[8]);
+                  numbers1[6] = number;
+                  System.out.println(numbers1[0] + "|" + numbers1[1] + "|" + numbers1[2]);
+                  System.out.println(numbers1[3] + "|" + numbers1[4] + "|" + numbers1[5]);
+                  System.out.println(numbers1[6] + "|" + numbers1[7] + "|" + numbers1[8]);
               }
               if (x == 1 & y == 2) {
-                    numbers1[3] = number;
-                    System.out.println(numbers1[0] + "|" + numbers1[1] + "|" + numbers1[2]);
-                    System.out.println(numbers1[3] + "|" + numbers1[4] + "|" + numbers1[5]);
-                    System.out.println(numbers1[6] + "|" + numbers1[7] + "|" + numbers1[8]);
+                  numbers1[3] = number;
+                  System.out.println(numbers1[0] + "|" + numbers1[1] + "|" + numbers1[2]);
+                  System.out.println(numbers1[3] + "|" + numbers1[4] + "|" + numbers1[5]);
+                  System.out.println(numbers1[6] + "|" + numbers1[7] + "|" + numbers1[8]);
               }
               if (x == 1 & y == 3) {
-                numbers1[0] = number;
-                System.out.println(numbers1[0] + "|" + numbers1[1] + "|" + numbers1[2]);
-                System.out.println(numbers1[3] + "|" + numbers1[4] + "|" + numbers1[5]);
-                System.out.println(numbers1[6] + "|" + numbers1[7] + "|" + numbers1[8]);
+                  numbers1[0] = number;
+                  System.out.println(numbers1[0] + "|" + numbers1[1] + "|" + numbers1[2]);
+                  System.out.println(numbers1[3] + "|" + numbers1[4] + "|" + numbers1[5]);
+                  System.out.println(numbers1[6] + "|" + numbers1[7] + "|" + numbers1[8]);
               }
               if (x == 2 & y == 1) {
-                numbers1[7] = number;
-                System.out.println(numbers1[0] + "|" + numbers1[1] + "|" + numbers1[2]);
-                System.out.println(numbers1[3] + "|" + numbers1[4] + "|" + numbers1[5]);
-                System.out.println(numbers1[6] + "|" + numbers1[7] + "|" + numbers1[8]);
+                  numbers1[7] = number;
+                  System.out.println(numbers1[0] + "|" + numbers1[1] + "|" + numbers1[2]);
+                  System.out.println(numbers1[3] + "|" + numbers1[4] + "|" + numbers1[5]);
+                  System.out.println(numbers1[6] + "|" + numbers1[7] + "|" + numbers1[8]);
               }
               if (x == 3 & y == 1) {
-                numbers1[8] = number;
-                System.out.println(numbers1[0] + "|" + numbers1[1] + "|" + numbers1[2]);
-                System.out.println(numbers1[3] + "|" + numbers1[4] + "|" + numbers1[5]);
-                System.out.println(numbers1[6] + "|" + numbers1[7] + "|" + numbers1[8]);
+                  numbers1[8] = number;
+                  System.out.println(numbers1[0] + "|" + numbers1[1] + "|" + numbers1[2]);
+                  System.out.println(numbers1[3] + "|" + numbers1[4] + "|" + numbers1[5]);
+                  System.out.println(numbers1[6] + "|" + numbers1[7] + "|" + numbers1[8]);
               }
               if (x == 2 & y == 2) {
-                numbers1[4] = number;
-                System.out.println(numbers1[0] + "|" + numbers1[1] + "|" + numbers1[2]);
-                System.out.println(numbers1[3] + "|" + numbers1[4] + "|" + numbers1[5]);
-                System.out.println(numbers1[6] + "|" + numbers1[7] + "|" + numbers1[8]);
+                  numbers1[4] = number;
+                  System.out.println(numbers1[0] + "|" + numbers1[1] + "|" + numbers1[2]);
+                  System.out.println(numbers1[3] + "|" + numbers1[4] + "|" + numbers1[5]);
+                  System.out.println(numbers1[6] + "|" + numbers1[7] + "|" + numbers1[8]);
               }
               if (x == 3 & y == 2) {
-                numbers1[5] = number;
-                System.out.println(numbers1[0] + "|" + numbers1[1] + "|" + numbers1[2]);
-                System.out.println(numbers1[3] + "|" + numbers1[4] + "|" + numbers1[5]);
-                System.out.println(numbers1[6] + "|" + numbers1[7] + "|" + numbers1[8]);
+                  numbers1[5] = number;
+                  System.out.println(numbers1[0] + "|" + numbers1[1] + "|" + numbers1[2]);
+                  System.out.println(numbers1[3] + "|" + numbers1[4] + "|" + numbers1[5]);
+                  System.out.println(numbers1[6] + "|" + numbers1[7] + "|" + numbers1[8]);
               }
               if (x == 3 & y == 3) {
-                numbers1[2] = number;
-                System.out.println(numbers1[0] + "|" + numbers1[1] + "|" + numbers1[2]);
-                System.out.println(numbers1[3] + "|" + numbers1[4] + "|" + numbers1[5]);
-                System.out.println(numbers1[6] + "|" + numbers1[7] + "|" + numbers1[8]);
+                  numbers1[2] = number;
+                  System.out.println(numbers1[0] + "|" + numbers1[1] + "|" + numbers1[2]);
+                  System.out.println(numbers1[3] + "|" + numbers1[4] + "|" + numbers1[5]);
+                  System.out.println(numbers1[6] + "|" + numbers1[7] + "|" + numbers1[8]);
               }
-                 if (!numbers1[0].equals("-") & !numbers1[1].equals("-") & !numbers1[2].equals("-") &
-                !numbers1[3].equals("-") & !numbers1[4].equals("-") & !numbers1[5].equals("-") & !numbers1[6].equals("-") &
-                      !numbers1[7].equals("-") & !numbers1[8].equals("-")) {
+                if ((numbers1[6].equals("X") & numbers1[3].equals("X") & numbers1[0].equals("X")) ||
+                      (numbers1[7].equals("X") & numbers1[4].equals("X") & numbers1[1].equals("X")) ||
+                      (numbers1[8].equals("X") & numbers1[5].equals("X") & numbers1[2].equals("X")) ||
+                      (numbers1[0].equals("X") & numbers1[1].equals("X") & numbers1[2].equals("X")) ||
+                      (numbers1[3].equals("X") & numbers1[4].equals("X") & numbers1[5].equals("X")) ||
+                      (numbers1[6].equals("X") & numbers1[7].equals("X") & numbers1[8].equals("X")) ||
+                      (numbers1[0].equals("X") & numbers1[4].equals("X") & numbers1[8].equals("X")) ||
+                      (numbers1[6].equals("X") & numbers1[4].equals("X") & numbers1[2].equals("X"))) {
+                  System.out.println("Победил игрок, играющий крестиками.");
                   key = false;
-                }
+                 }
+                 if ((numbers1[6].equals("O") & numbers1[3].equals("O") & numbers1[0].equals("O")) ||
+                      (numbers1[7].equals("O") & numbers1[4].equals("O") & numbers1[1].equals("O")) ||
+                      (numbers1[8].equals("O") & numbers1[5].equals("O") & numbers1[2].equals("O")) ||
+                      (numbers1[0].equals("O") & numbers1[1].equals("O") & numbers1[2].equals("O")) ||
+                      (numbers1[3].equals("O") & numbers1[4].equals("O") & numbers1[5].equals("O")) ||
+                      (numbers1[6].equals("O") & numbers1[7].equals("O") & numbers1[8].equals("O")) ||
+                      (numbers1[0].equals("O") & numbers1[4].equals("O") & numbers1[8].equals("O")) ||
+                      (numbers1[6].equals("O") & numbers1[4].equals("O") & numbers1[2].equals("O"))) {
+                  System.out.println("Победил игрок, играющий ноликами.");
+                  key = false;
+                 }
         }
     }
 }
